@@ -4,14 +4,14 @@
 
 ## Verilog
 * [a_verilog_hdl_primer](https://drive.google.com/file/d/1wj_ftsmwqatEIZRMRMYeRw2n2LSfnWEq/view?usp=sharing)
-* [the_verilog_hardware_description_language](https://github.com/gs1293/pdfs/blob/main/books/the_verilog_hardware_description_language.pdf)
-* [the_verilog_pli_handbook](https://github.com/gs1293/pdfs/blob/main/books/the_verilog_pli_handbook.pdf)
-* [verilog_std_1364_2005](https://github.com/gs1293/pdfs/blob/main/books/verilog_std_1364_2005.pdf)
-* [verilog_2001_new_features_of_the_verilog](https://github.com/gs1293/pdfs/blob/main/books/verilog_2001_new_features_of_the_verilog.pdf)
-* [verilog_and_systemverilog_gotchas](https://github.com/gs1293/pdfs/blob/main/books/verilog_and_systemverilog_gotchas.pdf)
-* [verilog_hdl_a_guide_to_digital_design_and_synthesis_1996](https://github.com/gs1293/pdfs/blob/main/books/verilog_hdl_a_guide_to_digital_design_and_synthesis.pdf)
-* [verilog_hdl_a_guide_to_digital_design_and_synthesis_2003](https://github.com/gs1293/pdfs/blob/main/books/verilog_hdl_a_guide_to_digital_design_and_synthesis_2003.pdf)
-* [verilog_hdl_synthesis](https://github.com/gs1293/pdfs/blob/main/books/verilog_hdl_synthesis.pdf)
+* [the_verilog_hardware_description_language](https://drive.google.com/file/d/1wXlhxlD5iYjShnHqLd1RI4CPWMo6650M/view?usp=sharing)
+* [the_verilog_pli_handbook](https://drive.google.com/file/d/1qpt3isoaTwAuFROEbWUf7A6j2rU47anV/view?usp=sharing)
+* [verilog_std_1364_2005](https://drive.google.com/file/d/1B_f8SdwBIc_816nmVst12G5u4xRyRSwf/view?usp=sharing)
+* [verilog_2001_new_features_of_the_verilog](https://drive.google.com/file/d/1UFcBQkjzR4CwAhOjYAe5Q4_G35XZmNpe/view?usp=sharing)
+* [verilog_and_systemverilog_gotchas](https://drive.google.com/file/d/1TA2ABXDjYvfEruut_k5lF2qZNrX2XKbZ/view?usp=sharing)
+* [verilog_hdl_a_guide_to_digital_design_and_synthesis_1996](https://drive.google.com/file/d/17-HEQ5A91BlP7D8hvSOxsQmCybu_Y2Qr/view?usp=sharing)
+* [verilog_hdl_a_guide_to_digital_design_and_synthesis_2003](https://drive.google.com/file/d/1HqW1lHY_XZMl_FDgRxZcWpWm5lanEP8k/view?usp=sharing)
+* [verilog_hdl_synthesis](https://drive.google.com/file/d/1dn1SGGXrVBmM4J4D69CPm2V6RRYNb0CG/view?usp=sharing)
 
 ## System Verilog
 * [ieee_standard_for_systemverilog](https://github.com/gs1293/pdfs/blob/main/books/ieee_standard_for_systemverilog.pdf)
