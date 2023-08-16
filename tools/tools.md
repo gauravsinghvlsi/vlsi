@@ -1,17 +1,17 @@
 # Tools
 
 ### Cadence:
-- [IRUN](https://picture.iczhiku.com/resource/eetop/ShIgepQHdUhOexxx.pdf)
-- [Simvision](https://github.com/gs1293/pdfs/blob/main/tools/simvision.pdf) | [Source](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.433.382&rep=rep1&type=pdf) | [playlist](https://www.youtube.com/playlist?list=PLYdInKVfi0KYzCjnkgRgDXFJcKyQRz6eM)
-- [IMC Coverage](https://github.com/gs1293/pdfs/blob/main/tools/incisive_coverage.pdf) | [Source](https://manualzz.com/doc/33007293/incisive-coverage-user-guide)
+- [IRUN](https://drive.google.com/file/d/18dzLl3XIZnPw_kemmVF-VQx5XBJ9SwxT/view?usp=sharing) | [Source](https://picture.iczhiku.com/resource/eetop/ShIgepQHdUhOexxx.pdf)
+- [Simvision](https://drive.google.com/file/d/1JOQSCrIrwKxRXStDIG_GA_huP6pW3HNC/view?usp=sharing) | [Source](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.433.382&rep=rep1&type=pdf) | [playlist](https://www.youtube.com/playlist?list=PLYdInKVfi0KYzCjnkgRgDXFJcKyQRz6eM)
+- [IMC Coverage](https://drive.google.com/file/d/1z1Q4rspaa0xT5lJrr-3SWoFCQh2ldCvW/view?usp=sharing) | [Source](https://manualzz.com/doc/33007293/incisive-coverage-user-guide)
 - Command: cdnshelp // To access all the product manuals
 
 ### Synopsys:
-- [VCS : Verilog Compiler Simulator](https://github.com/gs1293/pdfs/blob/main/tools/vcs.pdf) | [Source](https://inst.eecs.berkeley.edu/~eecs151/sp18/files/vcsmx_ug.pdf)
-- [DVE : Discovery Visual Environment](https://github.com/gs1293/pdfs/blob/main/tools/dve.pdf) | [Source](https://inst.eecs.berkeley.edu/~eecs151/sp18/files/dve_ug.pdf)
-- [DC : Design Compiler](https://github.com/gs1293/pdfs/blob/main/tools/design_compiler.pdf) | [Optimization](https://github.com/gs1293/pdfs/blob/main/tools/dc_optimization.pdf) | [Synthesis Quick Reference](https://github.com/gs1293/pdfs/blob/main/tools/synthesis.pdf)
-- [Spyglass Lint](https://github.com/gs1293/pdfs/blob/main/tools/spyglass_lint_1.pdf) | [Intro](https://github.com/gs1293/pdfs/blob/main/tools/spyglass_lint_2.pdf)
-- [Verdi](https://github.com/gs1293/pdfs/blob/main/tools/verdi.pdf) | [Source](https://pdfslide.net/documents/verdi-3-user-guide-and-tutorial.html) | [playlist](https://www.youtube.com/playlist?list=PLEgCreVKPx5ANYtZgq6S4nZp6lZbNpNEQ)
+- [VCS : Verilog Compiler Simulator](https://drive.google.com/file/d/1To8u21Pl_CuryNpLlQwiK25aCA24MoHS/view?usp=sharing) | [Source](https://inst.eecs.berkeley.edu/~eecs151/sp18/files/vcsmx_ug.pdf)
+- [DVE : Discovery Visual Environment](https://drive.google.com/file/d/1eagThlRKerUdkLRKHSwDLh3rHnHFAE2j/view?usp=sharing) | [Source](https://inst.eecs.berkeley.edu/~eecs151/sp18/files/dve_ug.pdf)
+- [DC : Design Compiler](https://drive.google.com/file/d/1xmjnSlzRRf7N7xE0EoveiXwCzGuB-X2B/view?usp=sharing) | [Optimization](https://drive.google.com/file/d/154HjtlSAB0EYDeUYl0uVUSLYgG2k63sY/view?usp=sharing) | [Synthesis Quick Reference](https://drive.google.com/file/d/143h84X9u3HXqhTirs4vC2dmpceAnvZKZ/view?usp=sharing)
+- [Spyglass Lint](https://drive.google.com/file/d/1kVlG5hC9Ia-G7GZi1L4tMFQAO96ERccl/view?usp=sharing) | [Intro](https://drive.google.com/file/d/1ZUYFTH4Mrqb8BX1L7nTquXmuvfcD_2Qj/view?usp=sharing)
+- [Verdi](https://drive.google.com/file/d/1uXkEujolUXFSajk0vCnvXeC_FlEhwMwW/view?usp=sharing) | [Source](https://pdfslide.net/documents/verdi-3-user-guide-and-tutorial.html) | [playlist](https://www.youtube.com/playlist?list=PLEgCreVKPx5ANYtZgq6S4nZp6lZbNpNEQ)
 
 ### Ansys:
 - Power Artist
@@ -20,7 +20,7 @@
 - Quartus
 
 ### Mentor Graphics:
-- [ModelSim](https://github.com/gs1293/pdfs/blob/main/tools/modelsim.pdf) | [Source](https://www.microsemi.com/document-portal/doc_download/136662-modelsim-me-10-5c-user-u-s-manual-for-libero-soc-v11-8)
+- [ModelSim](https://drive.google.com/file/d/1T9Rr25l1ME84lQ3SkxTSaEdIlKmnmM-_/view?usp=sharing) | [Source](https://www.microsemi.com/document-portal/doc_download/136662-modelsim-me-10-5c-user-u-s-manual-for-libero-soc-v11-8)
 
 ### Open Source:
 - [Icarus Verilog](http://iverilog.icarus.com/) [(user_guide)](https://iverilog.fandom.com/wiki/User_Guide)
