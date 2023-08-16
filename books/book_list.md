@@ -14,31 +14,32 @@
 * [verilog_hdl_synthesis](https://drive.google.com/file/d/1dn1SGGXrVBmM4J4D69CPm2V6RRYNb0CG/view?usp=sharing)
 
 ## System Verilog
-* [ieee_standard_for_systemverilog](https://github.com/gs1293/pdfs/blob/main/books/ieee_standard_for_systemverilog.pdf)
-* [rtl_modeling_with_systemverilog](https://github.com/gs1293/pdfs/blob/main/books/rtl_modeling_with_systemverilog.pdf)
-* [system_verilog_for_design](https://github.com/gs1293/pdfs/blob/main/books/system_verilog_for_design.pdf)
-* [systemverilog_assertions_and_functional_coverage](https://github.com/gs1293/pdfs/blob/main/books/systemverilog_assertions_and_functional_coverage.pdf)
-* [systemverilog_for_verification](https://github.com/gs1293/pdfs/blob/main/books/systemverilog_for_verification.pdf)
+* [ieee_standard_for_systemverilog](https://drive.google.com/file/d/1sgC0B2gvHSKomJDGfSAU7h_GJSOqv8wX/view?usp=sharing)
+* [rtl_modeling_with_systemverilog](https://drive.google.com/file/d/18atoQHoooB8n-IAZKSPRfN2AtcCu0CqJ/view?usp=sharing)
+* [system_verilog_for_design](https://drive.google.com/file/d/1dzEsChxoeIgdgMewEKV-w7cOQosIipkL/view?usp=sharing)
+* [systemverilog_assertions_and_functional_coverage](https://drive.google.com/file/d/11NW-ocRyMkoRyJKoQ6fC8sSqfjoKc_I1/view?usp=sharing)
+* [systemverilog_for_verification](https://drive.google.com/file/d/1YkcepHqIgOtq_Pu-wb2oJH-thmA0rGvT/view?usp=sharing)
 
 ## UVM
-* [the_uvm_primer](https://github.com/gs1293/pdfs/blob/main/books/the_uvm_primer.pdf)
-* [a_practical_guide_to_adopting_uvm](https://github.com/gs1293/pdfs/blob/main/books/a_practical_guide_to_adopting_uvm.pdf)
+* [the_uvm_primer](https://drive.google.com/file/d/1OaOadfQPYKW1on2LDoAeaFmdsAaI8Ns4/view?usp=sharing)
+* [a_practical_guide_to_adopting_uvm](https://drive.google.com/file/d/1bPlqvhX6_phopGyZAka-jxaqjzTihPed/view?usp=sharing)
 
 ## VLSI
-* [cmos_vlsi_design](https://github.com/gs1293/pdfs/blob/main/books/cmos_vlsi_design.pdf)
+* [cmos_vlsi_design](https://drive.google.com/file/d/1ao_xdbMWTwRU-gKw_pBxsSBxunpv70we/view?usp=sharing)
+* [cmos_vlsi_design_solutions](https://drive.google.com/file/d/1YrhWcij8XMlRf3TGUDcTbYC37JE3sulm/view?usp=sharing)
 
 ## Design
-* [hdl_chip_design](https://github.com/gs1293/pdfs/blob/main/books/hdl_chip_design.pdf)
-* [digital_logic_and_computer_design](https://github.com/gs1293/pdfs/blob/main/books/digital_logic_and_computer_design.pdf)
-* [digital_integrated_circuits](https://github.com/gs1293/pdfs/blob/main/books/digital_integrated_circuits.pdf)
-* [digital_design](https://github.com/gs1293/pdfs/blob/main/books/digital_design.pdf)
-* [digital_design_principles_and_practices](https://github.com/gs1293/pdfs/blob/main/books/digital_design_principles_and_practices.pdf)
-* [an_asic_low_power_primer](https://github.com/gs1293/pdfs/blob/main/books/an_asic_low_power_primer.pdf)
-* [a_systemc_primer](https://github.com/gs1293/pdfs/blob/main/books/a_systemc_primer.pdf)
-* [application_specific_integrated_circuits](https://github.com/gs1293/pdfs/blob/main/books/application_specific_integrated_circuits.pdf)
-* [logic_and_computer_design_fundamentals](https://github.com/gs1293/pdfs/blob/main/books/logic_and_computer_design_fundamentals.pdf)
-* [principles_of_verifiable_rtl_design](https://github.com/gs1293/pdfs/blob/main/books/principles_of_verifiable_rtl_design.pdf)
-* [static_timing_analysis_for_nanometer_designs](https://github.com/gs1293/pdfs/blob/main/books/static_timing_analysis_for_nanometer_designs.pdf)
+* [hdl_chip_design](https://drive.google.com/file/d/1AxamWMzCwOqOPiniQN28-g_HvhV93dOm/view?usp=sharing)
+* [digital_logic_and_computer_design](https://drive.google.com/file/d/1vVkxLErnXqHkA-8CKTSLxomExKHUg9aX/view?usp=sharing)
+* [digital_integrated_circuits](https://drive.google.com/file/d/19XnCq36Ux58Zw0Qh5XzbCFspWla4_NlY/view?usp=sharing)
+* [digital_design](https://drive.google.com/file/d/1O17a9ulEcbf9mIPEGe2z4c3Dxd7xVGDi/view?usp=sharing)
+* [digital_design_principles_and_practices](https://drive.google.com/file/d/1hLmk2WXePW2YCj-wBVZZlHENR4q67YgE/view?usp=sharing)
+* [an_asic_low_power_primer](https://drive.google.com/file/d/1zTsmTAxlCACkt_U3Ln0mfZUtSxBmusFE/view?usp=sharing)
+* [a_systemc_primer](https://drive.google.com/file/d/161rMggiUkrweHTvQjO1_n_CvJW-3VGmy/view?usp=sharing)
+* [application_specific_integrated_circuits](https://drive.google.com/file/d/1Uzfb_b9sbgs7uZTXokjEuJpbaBsU_tw1/view?usp=sharing)
+* [logic_and_computer_design_fundamentals](https://drive.google.com/file/d/1JWxlOa1xgftk2QCwzUXvwjXJgZPOKz9R/view?usp=sharing)
+* [principles_of_verifiable_rtl_design](https://drive.google.com/file/d/1bgXtYdPUB-zwnEB6IuE8MxQ_JKtHQg-o/view?usp=sharing)
+* [static_timing_analysis_for_nanometer_designs](https://drive.google.com/file/d/1tSH8bwC0aZJdI6M1axH03WxFXktJYwIu/view?usp=sharing)
 
 ## Verification
 
