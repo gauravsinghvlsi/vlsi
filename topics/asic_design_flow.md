@@ -7,5 +7,5 @@
 - [Link2](https://www.chipverify.com/verilog/asic-soc-chip-design-flow)
 - [Link3](https://dzone.com/articles/how-does-the-asic-design-flow-cycle-works)
 - [Complete Process](http://venividiwiki.ee.virginia.edu/mediawiki/images/2/22/Pt.pdf)
-- [Manual with VHDL](https://www.eit.lth.se/fileadmin/eit/courses/etin01/manual_etc/dasic.pdf)
-- [Book](https://github.com/gs1293/pdfs/blob/main/books/asic_design_and_synthesis.pdf)
+- [Design Flow Tutorial](https://drive.google.com/file/d/17zxrsE18JDa8tKB1eWhfhHQRfGdpIEkL/view?usp=sharing)
+- [asic design and synthesis book](https://drive.google.com/file/d/1VVZjCfB56W4gYj5tRJT7kCD26AXGDYZH/view?usp=sharing)
