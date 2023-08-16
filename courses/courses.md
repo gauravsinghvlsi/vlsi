@@ -26,29 +26,29 @@
 
 ## Digital VLSI Design RTL to GDS [(link)](http://www.eng.biu.ac.il/temanad/digital-vlsi-design/)
 
-- [Lecture 01 Introduction](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_01_Introduction.pdf)
-- [Lecture 02 Verilog](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_02_Verilog.pdf)
-- [Lecture 03 Synthesis_Part_1](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_03_Synthesis_Part_1.pdf)
-- [Lecture 04 Synthesis_Part_2](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_04_Synthesis_Part_2.pdf)
-- [Lecture 05 STA](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_05_STA.pdf)
-- [Lecture 06 Import_Design_and_Floorplan](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_06_Import_Design_and_Floorplan.pdf)
-- [Lecture 07 Placement](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_07_Placement.pdf)
-- [Lecture 08 CTS](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_08_CTS.pdf)
-- [Lecture 09 Routing](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_09_Routing.pdf)
-- [Lecture 10 IO](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_10_IO.pdf)
-- [Lecture 11 Signoff](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_rtl_to_gds/Lecture_11_Signoff.pdf)
+- [Lecture 01 Introduction](https://drive.google.com/file/d/1PbKZwZiOg-H4YgcGHG6S2vP1StTUoeA9/view?usp=sharing)
+- [Lecture 02 Verilog](https://drive.google.com/file/d/1FiM7sSvP5mF0-6FOP9Oi9rbWVNxvaNAn/view?usp=sharing)
+- [Lecture 03 Synthesis_Part_1](https://drive.google.com/file/d/1Z6z9Notdy1_PaVwcy90PF1LHfqlK_yp8/view?usp=sharing)
+- [Lecture 04 Synthesis_Part_2](https://drive.google.com/file/d/1LazTN3tew1JvxPXPULeQsAs0DEGrkAbN/view?usp=sharing)
+- [Lecture 05 STA](https://drive.google.com/file/d/1v_ILEO5Wk5AhKYzGqOtfAR47wQUKLcaE/view?usp=sharing)
+- [Lecture 06 Import_Design_and_Floorplan](https://drive.google.com/file/d/18njZCmXuabC8d82VaizlC3Xp_6Sxn3mL/view?usp=sharing)
+- [Lecture 07 Placement](https://drive.google.com/file/d/1XjABY2pDM3-j-uJEaA0zmP-W1Opoj5Ge/view?usp=sharing)
+- [Lecture 08 CTS](https://drive.google.com/file/d/1DjZ3GMomKvjvMFk6j3UAkWM0QGZ8CdAX/view?usp=sharing)
+- [Lecture 09 Routing](https://drive.google.com/file/d/1TxLARw-GDDwFG26uWmLc-0mmTS7XWvv-/view?usp=sharing)
+- [Lecture 10 IO](https://drive.google.com/file/d/1ezy0IjM5o5J22h6miRJzRJMQMnFsmaxU/view?usp=sharing)
+- [Lecture 11 Signoff](https://drive.google.com/file/d/1trvnqWZw5WNvHz59ha8YVdVxsMnjYahX/view?usp=sharing)
 
 ## Full Chip DRC/LVS
 
-- [Full Chip DRC/LVS](https://github.com/gs1293/pdfs/blob/main/courses/full_chip_drc_lvs/Full_Chip_DRC_LVS_slides.pdf)
+- [Full Chip DRC/LVS](https://drive.google.com/file/d/1rkve3l7k852IBepMDEV-FNGfX_hoT4g6/view?usp=sharing)
 
 ## Hardware for Deep Learning [(link)](https://www.eng.biu.ac.il/temanad/hardware-for-deep-learning/)
 
-- [Lecture_1_Introduction_to_Deep_Learning](https://github.com/gs1293/pdfs/blob/main/courses/hardware_for_deep_learning/Lecture_1_Introduction_to_Deep_Learning.pdf)
-- [Lecture_2_CNNs](https://github.com/gs1293/pdfs/blob/main/courses/hardware_for_deep_learning/Lecture_2_CNNs.pdf)
-- [Lecture_3_Computing_Convolutions](https://github.com/gs1293/pdfs/blob/main/courses/hardware_for_deep_learning/Lecture_3_Computing_Convolutions.pdf)
-- [Lecture_4_Reducing_Complexity](https://github.com/gs1293/pdfs/blob/main/courses/hardware_for_deep_learning/Lecture_4_Reducing_Complexity.pdf)
-- [Lecture_5_The_DL_Landscape](https://github.com/gs1293/pdfs/blob/main/courses/hardware_for_deep_learning/Lecture_5_The_DL_Landscape.pdf)
+- [Lecture_1_Introduction_to_Deep_Learning](https://drive.google.com/file/d/1kaJlGwdxfSkosL0iw2cHznQ-vwPtvJQq/view?usp=sharing)
+- [Lecture_2_CNNs](https://drive.google.com/file/d/18zU4pdi6JHl3VENlYR1Vwj6CWR3c78Xv/view?usp=sharing)
+- [Lecture_3_Computing_Convolutions](https://drive.google.com/file/d/1F9lqaGk3UlA_c5OfmFZyT99U4hLgb6sU/view?usp=sharing)
+- [Lecture_4_Reducing_Complexity](https://drive.google.com/file/d/1m1wb0-_QR2JTM7Qt9TKfd9jyKGvj40YN/view?usp=sharing)
+- [Lecture_5_The_DL_Landscape](https://drive.google.com/file/d/1ILJhvb3OlOS8v72kJBlS_P2opk_dyS2j/view?usp=sharing)
 
 
 
