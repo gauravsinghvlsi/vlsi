@@ -1,7 +1,7 @@
 # Interview Questions List
 
-- [Basic Digital Design](https://github.com/gs1293/pdfs/blob/main/interview/basic_digital_qa.pdf)
-- [Static Timing Analysis](https://github.com/gs1293/pdfs/blob/main/books/sta_interview_questions.pdf)
+- [Basic Digital Design](https://drive.google.com/file/d/1Gd2tAphZ4pWLcQmRSd5Qi5dsuIAUmwOY/view?usp=sharing)
+- [Static Timing Analysis](https://drive.google.com/file/d/1CDRDnPV5x-HxQCkztBRqi6RooaFQOvvr/view?usp=sharing)
 
 ##
 
@@ -184,7 +184,7 @@ end
 
 **Question:** In a system, sender is sending data at 60bytes/100clocks and at receiver end,  it is receiving at 6bytes/10clocks so find the min depth of fifo
 
-**Answer:** [Check Case-9](https://github.com/gs1293/pdfs/blob/main/design/async_fifo_3.pdf)
+**Answer:** [Check Case-9](https://drive.google.com/file/d/1_AmCIrQuT5nkLJuTo2dl5h_Rz1NYLcXi/view?usp=sharing)
 
 ##
 
