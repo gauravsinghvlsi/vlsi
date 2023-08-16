@@ -4,7 +4,7 @@
 * [Sunburst Resets 2](https://drive.google.com/file/d/1jLIV63CjwlG0B6U7MxXLtUGq2MWpOMyS/view?usp=sharing) | [source](http://www.sunburst-design.com/papers/CummingsSNUG2003Boston_Resets.pdf)
 * [Reset Design Strategy](https://drive.google.com/file/d/1Jfr-tJYhV0p6_y0yWlOAoiijjSd-Gem2/view?usp=sharing)
 * [Sync Async Reset](https://drive.google.com/file/d/1AlHVHRZfqnXwYBmpKm3bU1X2k_pdfIbD/view?usp=sharing) | [source](https://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/sync_async_reset.pdf)
-* [Asynchronous Circuits](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_ece4740/Lecture_27_asynchronous_circuits.pdf)
+* [Asynchronous Circuits](https://drive.google.com/file/d/14ze9DxKM61DVydKNL-0LAZ6uStfSmtpc/view?usp=sharing)
 * [Link1](https://only-vlsi.blogspot.com/2009/05/synchronous-reset-vs-asynchronous-reset.html)
 * [Link2](https://forums.xilinx.com/t5/Blog-Archive/Demystifying-Resets-Synchronous-Asynchronous-other-Design/td-p/882252)
 * [Link4](http://www.deepchip.com/items/0409-11.html)
