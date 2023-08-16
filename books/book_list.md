@@ -3,7 +3,7 @@
 * <http://www.vlsi-expert.com/p/recommended-book.html>
 
 ## Verilog
-* [a_verilog_hdl_primer](https://github.com/gs1293/pdfs/blob/main/books/a_verilog_hdl_primer.pdf)
+* [a_verilog_hdl_primer](https://drive.google.com/file/d/1wj_ftsmwqatEIZRMRMYeRw2n2LSfnWEq/view?usp=sharing)
 * [the_verilog_hardware_description_language](https://github.com/gs1293/pdfs/blob/main/books/the_verilog_hardware_description_language.pdf)
 * [the_verilog_pli_handbook](https://github.com/gs1293/pdfs/blob/main/books/the_verilog_pli_handbook.pdf)
 * [verilog_std_1364_2005](https://github.com/gs1293/pdfs/blob/main/books/verilog_std_1364_2005.pdf)
