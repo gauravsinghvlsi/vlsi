@@ -1,9 +1,9 @@
 # Synchronous vs Asynchronous Resets:
 
-* [Sunburst Resets 1](https://github.com/gs1293/pdfs/blob/main/design/sunburst_reset_1.pdf) | [source](http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_Resets.pdf)
-* [Sunburst Resets 2](https://github.com/gs1293/pdfs/blob/main/design/sunburst_reset_2.pdf) | [source](http://www.sunburst-design.com/papers/CummingsSNUG2003Boston_Resets.pdf)
-* [Reset Design Strategy](https://github.com/gs1293/pdfs/blob/main/design/reset_design.pdf)
-* [Sync Async Reset](https://github.com/gs1293/pdfs/blob/main/design/sync_async_reset.pdf) | [source](https://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/sync_async_reset.pdf)
+* [Sunburst Resets 1](https://drive.google.com/file/d/1XePGYrmJzWA8KLks8NuekVObdaEoVKT3/view?usp=sharing) | [source](http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_Resets.pdf)
+* [Sunburst Resets 2](https://drive.google.com/file/d/1jLIV63CjwlG0B6U7MxXLtUGq2MWpOMyS/view?usp=sharing) | [source](http://www.sunburst-design.com/papers/CummingsSNUG2003Boston_Resets.pdf)
+* [Reset Design Strategy](https://drive.google.com/file/d/1Jfr-tJYhV0p6_y0yWlOAoiijjSd-Gem2/view?usp=sharing)
+* [Sync Async Reset](https://drive.google.com/file/d/1AlHVHRZfqnXwYBmpKm3bU1X2k_pdfIbD/view?usp=sharing) | [source](https://web.engr.oregonstate.edu/~traylor/ece474/beamer_lectures/sync_async_reset.pdf)
 * [Asynchronous Circuits](https://github.com/gs1293/pdfs/blob/main/courses/digital_vlsi_design_ece4740/Lecture_27_asynchronous_circuits.pdf)
 * [Link1](https://only-vlsi.blogspot.com/2009/05/synchronous-reset-vs-asynchronous-reset.html)
 * [Link2](https://forums.xilinx.com/t5/Blog-Archive/Demystifying-Resets-Synchronous-Asynchronous-other-Design/td-p/882252)
